@@ -15,16 +15,16 @@ bugTracker is a comprehensive web application designed to streamline the process
 
 ### Home
 
-![alt text](/screenshorts/Screenshot 2024-06-13 111620.png)
+![alt text](https://github.com/sudo-subho/bug-tracker/blob/main/screenshorts/Screenshot%202024-06-13%20111620.png)
 
 ### Adding Projects and bugs
 
-![alt text](screenshorts/Screenshot 2024-06-13 111640.png)
+![alt text](https://github.com/sudo-subho/bug-tracker/blob/main/screenshorts/Screenshot%202024-06-13%20111640.png)
 
-### Poject and bug list
+### Project and bug list
 
-![alt text](screenshorts/Screenshot 2024-06-13 111655.png)
+![alt text](https://github.com/sudo-subho/bug-tracker/blob/main/screenshorts/Screenshot%202024-06-13%20111655.png)
 
 ### Profile 
 
-![alt text](screenshorts/Screenshot 2024-06-13 111746.png)
+![alt text](https://github.com/sudo-subho/bug-tracker/blob/main/screenshorts/Screenshot%202024-06-13%20111746.png)
